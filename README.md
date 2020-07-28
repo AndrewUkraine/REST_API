@@ -9,7 +9,7 @@ REST API APP.
 <li>JUnit</li>
 
 
-<h3>Documentation: Swagger.</h3>
+<h3>Documentation: Swagger:</h3>
 <p><strong><a href="http://localhost:8080/swagger-ui.html#">Swagger UI</a></strong></p>
 <p><strong><a href="http://localhost:8080/v2/api-docs">JSON view</a></strong></p>
 
