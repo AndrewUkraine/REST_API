@@ -6,6 +6,7 @@ REST API APP.
 <li>SpringBoot</li>
 <li>Default DB: h2</li>
 <li>JPA: Hibernate</li>
+<li>Apache Maven</li>
 <li>JUnit</li>
 
 
